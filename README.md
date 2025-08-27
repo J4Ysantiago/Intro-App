@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='kjnk.gif'/>
+https://github.com/J4Ysantiago/AndroidApp/blob/main/AndroidApp.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
